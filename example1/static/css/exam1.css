@@ -1,0 +1,7 @@
+@import url('reset.css');
+@import url('font.css');
+
+
+@import url('layout.css') screen and (min-width:1000px) and (max-width:2024px);
+@import url('layout_m.css') screen and (min-width:100px) and (max-width:1000px);
+/* @import url('layout.css'); */
